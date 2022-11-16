@@ -1,2 +1,2 @@
 # snake-game-portugol
-Teste - Jogo em Portugol 
+Snake game feito em portugol para treinar um pouco de lógica de programação e POO
